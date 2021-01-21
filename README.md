@@ -3,12 +3,12 @@
 * Install the **mob** tool.  See [https://github.com/remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) under “how to install.”  (Under Windows? Use git bash.)
 * Clone this repo and make sure the tests run (see below for what to expect).
 * We will use Kahoot! for quizzes throughout. You can either install Kahoot! on your phone, or navigate to links I'll be providing for each quiz.
-* Email me your cell number.
+* Email me your cell number, to be used for any internet / communication challenges.
 * Contact me if you have any problems. I am Jeff@Langrsoft.com. You can call or text me if urgent; I am at +1 719-287-4335.
 
 # This repo
 
-This is a hodgepodge of various bits of code. The core project is a Rails server centered around a point-of-sale (POS) interface. You'll find most exercise-related code in the app/helpers directory.
+This project is a hodgepodge of various bits of code. The core piece of the project is a Rails server centered around a point-of-sale (POS) interface. You'll find most exercise-related code in the app/helpers directory.
 
 This codebase will have changed by the time you start class; be prepared to update your local copy of the repository.
 
