@@ -2,7 +2,7 @@
 
 * Install the **mob** tool.  See [https://github.com/remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) under “how to install.”  (Under Windows? Use git bash.)
 * Clone this repo and make sure the tests run (see below for what to expect).
-* We will use Kahoot! for quizzes throughout. You can either install Kahoot! on your phone, or navigate to the [web site](http://kahoot.it).
+* We will use Kahoot! for quizzes throughout. You can either install Kahoot! on your phone, or navigate to links I'll be providing for each quiz.
 * Email me your cell number.
 * Contact me if you have any problems. I am Jeff@Langrsoft.com. You can call or text me if urgent; I am at +1 719-287-4335.
 
